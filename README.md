@@ -1,1 +1,6 @@
-# RigelsRepoFlask initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/Rigelschur/RigelsRepoFlask.gitgit push -u origin mainecho # RigelsRepoFlask
+# RigelsRepoFlask initgit 
+git commit -m first commit
+git branch -M main
+git remote add origin https://github.com/Rigelschur/RigelsRepoFlask.git
+git push -u origin main
+echo # RigelsRepoFlask
